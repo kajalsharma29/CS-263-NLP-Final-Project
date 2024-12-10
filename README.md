@@ -4,18 +4,23 @@ For the purpose of studying attention mechanisms in large language models (LLMs)
 
 # Experiments Conducted 
 
-1. Examining Attention Patterns in Different Models
+### 1. Examining Attention Patterns in Different Models
 Goal: Examine and contrast how attention is distributed in LLaMA and BERT.
 The SQuAD dataset is the dataset.
 Result: Knowledge of general versus task-specific attention techniques.
-2. Interpreting Attention Through Several Techniques
+
+### 2. Interpreting Attention Through Several Techniques
 Goal: Investigate attention through interpretability tools including attention visualization and gradient-based techniques.
 The SQuAD dataset is the dataset.
 Result: A greater comprehension of the allocation of attention among layers and tokens.
-3. Assessment of Attention Rollout Analysis
+
+
+### 3. Assessment of Attention Rollout Analysis
 Goal: Assess how attention moves between layers and how it affects performance on subsequent tasks.
 Result: Knowledge on cumulative attention patterns and how they affect task adaptability.
-4. Focus on Downstream tasks (LLaMA & BERT)
+
+
+### 4. Focus on Downstream tasks (LLaMA & BERT)
 Goal: Examine attention mechanisms while performing downstream tasks in order to comprehend how they behave differently depending on the task.
 LLaMA for Text Generation: Prioritized coherence and context by examining attention patterns during text generation.
 For sentiment classification tasks, BERT for Sentiment Analysis examined attentional patterns with an emphasis on sentiment-laden tokens.
