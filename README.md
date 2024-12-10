@@ -27,6 +27,9 @@ For sentiment classification tasks, BERT for Sentiment Analysis examined attenti
 Datasets: IMDB dataset for BERT sentiment analysis.
 Result: The results demonstrate task-adapted attention that concentrates on sentiment indicators for analysis and semantic context for production.
 
+## Link to Slides 
+Link - https://docs.google.com/presentation/d/1uN2MlcLlZr9tCW8DqCtK9NrHZ-jTyIe3uDTUdl-z8r8/edit?usp=sharing 
+
 ## Pre-requisites
 The code requires the following libraries:
 
