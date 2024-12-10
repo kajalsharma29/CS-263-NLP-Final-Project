@@ -27,3 +27,20 @@ For sentiment classification tasks, BERT for Sentiment Analysis examined attenti
 Datasets: IMDB dataset for BERT sentiment analysis.
 Result: The results demonstrate task-adapted attention that concentrates on sentiment indicators for analysis and semantic context for production.
 
+## Pre-requisites
+The code requires the following libraries:
+
+Python >= 3.8
+Transformers (from HuggingFace for LLMs - BERT, LLaMA)
+Other common utilities like Matplotlib, etc.
+
+## Dataset(s)
+IMDb Dataset: Used for sentiment analysis with BERT.
+Dataset source: https://ai.stanford.edu/~amaas/data/sentiment/
+SQuAD Dataset: Used for attention comparisons and other experiments.
+Dataset source: https://rajpurkar.github.io/SQuAD-explorer/
+
+## How to reproduce the results?
+Run individual .ipynb file separately to reproduce the results in the code.
+
+
